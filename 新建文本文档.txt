@@ -1,0 +1,6 @@
+git clone https://github.com/用户名/仓库名.git
+cd 仓库名
+# 修改代码后...
+git add .
+git commit -m "你的修改描述"
+git push
